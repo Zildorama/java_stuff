@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'JavaLearning'" />
-    <option name="defaultScopeName" value="Project 'JavaLearning'" />
-    <option name="SEARCH_SCOPE" value="Project 'JavaLearning'" />
+    <option name="customScope" value="Selection" />
+    <option name="defaultScopeName" value="Selection" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Selection" />
   </component>
 </application>
